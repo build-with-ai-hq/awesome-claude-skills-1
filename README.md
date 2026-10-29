@@ -86,6 +86,9 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [llm-cost-reduction](https://github.com/build-with-ai-hq/llm-cost-reduction) - Find and cut LLM API spend with model right-sizing, complexity routing, prompt and semantic caching, Batch APIs, and per-team budgets. Install: `npx skills add build-with-ai-hq/llm-cost-reduction`
+- [llm-observability-stack](https://github.com/build-with-ai-hq/llm-observability-stack) - Instrument LLM apps and agents with OpenTelemetry GenAI traces, cost and latency metrics, PII redaction, Prometheus dashboards, and alerts. Install: `npx skills add build-with-ai-hq/llm-observability-stack`
+- [mcp-gateway-best-practices](https://github.com/build-with-ai-hq/mcp-gateway-best-practices) - Audit MCP setups and fix tool sprawl, context bloat, per-agent tool permissions, approvals for destructive tools, and missing tool-call logs. Install: `npx skills add build-with-ai-hq/mcp-gateway-best-practices`
 
 
 ## 📊 Data & Analysis
@@ -199,6 +202,8 @@
 - [vibe-check](https://github.com/TexasBedouin/vibe-check) - Guide beginners from a vague app idea to a buildable plan with discovery, flows, and a visual blueprint.
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
+- [ai-coding-agent-governance](https://github.com/build-with-ai-hq/ai-coding-agent-governance) - Roll out Claude Code, Codex and Cursor to a team with per-developer budgets, model control, MCP allowlists, and usage logs. Install: `npx skills add build-with-ai-hq/ai-coding-agent-governance`
+- [agent-skills-for-teams](https://github.com/build-with-ai-hq/agent-skills-for-teams) - Write, version, review and distribute SKILL.md files across a team, with SemVer, security review, and a shared skills registry. Install: `npx skills add build-with-ai-hq/agent-skills-for-teams`
 
 
 ## 🛡 Security & Web Testing
@@ -213,6 +218,7 @@
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [ironclaw-agent-guard](https://github.com/wd041216-bit/ironclaw-agent-guard) - Security review skill and CLI/MCP companion for risky tool calls, prompt injection, secret redaction, and audit-friendly agent workflows.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
+- [secure-llm-apps](https://github.com/build-with-ai-hq/secure-llm-apps) - Audit and harden LLM apps and agents against the OWASP LLM Top 10: leaked keys, prompt injection, over-broad tools, PII, and unsafe output handling. Install: `npx skills add build-with-ai-hq/secure-llm-apps`
 
 
 
